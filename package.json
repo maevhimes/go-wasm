@@ -1,0 +1,11 @@
+{
+  "name": "go-wasm",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "3.9.0"
+  },
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
