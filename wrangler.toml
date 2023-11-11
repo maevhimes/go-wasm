@@ -2,6 +2,3 @@ name = "go-wasm"
 main = "assest/index.js"
 compatibility_date = "2023-09-04"
 node_compat = true
-
-routes = [{ pattern = "go-wasm.mahmut.one", custom_domain = true }]
-
